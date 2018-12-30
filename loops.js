@@ -8,3 +8,9 @@ function forLoop(array) {
   }
   return array;
 }
+
+var countdown = 100;
+
+while (countdown > 0) {
+  console.log(--countdown);
+}

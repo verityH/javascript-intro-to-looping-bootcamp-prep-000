@@ -4,6 +4,5 @@ for(var i = 0; i < 25; i++) {
      } else {
        array.push(`I am ${i} strange loops.`);
      }
-   }
    return array;
  };
